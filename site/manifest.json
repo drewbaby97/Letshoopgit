@@ -1,0 +1,11 @@
+{
+    "game_version":  "0.8.0",
+    "game_url":  "game/LetsHoop-0.8.0.zip",
+    "game_sha256":  "B3163DF8A6D34319A63A4427B6788DFA3A6C107CE4848AB0D1E69701F220ACC2",
+    "game_size":  66154293,
+    "launcher_version":  "1.0.0",
+    "launcher_url":  "LetsHoop-Launcher.exe",
+    "launcher_sha256":  "406E12AFA7036DCA1E9EB67046C20F62059A3D665B5858D82BB37883594DE3AC",
+    "notes":  "New: the player database - 16 real franchises, 210 players, coaches with boosts and a $50M cap.",
+    "published":  "2026-11-26T15:00:45Z"
+}
